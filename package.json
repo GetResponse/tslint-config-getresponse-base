@@ -1,0 +1,37 @@
+{
+  "name": "tslint-config-getresponse-base",
+  "version": "1.0.0",
+  "description": "GetResponse TSLint shareable config",
+  "keywords": [
+    "config",
+    "styleguide",
+    "ts",
+    "tslint",
+    "tslintconfig",
+    "typescript"
+  ],
+  "homepage": "https://github.com/getresponse/tslint-config-getresponse-base#readme",
+  "bugs": {
+    "url": "https://github.com/getresponse/tslint-config-getresponse-base/issues"
+  },
+  "license": "MIT",
+  "author": "Rafał Maciejewski (https://github.com/rafalmaciejewski)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getresponse/tslint-config-getresponse-base.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-getresponse-base": "^1.0.0",
+    "eslint-plugin-import": "^2.10.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  }
+}

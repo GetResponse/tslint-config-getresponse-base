@@ -26,6 +26,17 @@ module.exports = {
         'no-inferrable-types': [true, 'ignore-params', 'ignore-properties'],
         'prefer-object-spread': true,
         'arrow-return-shorthand': true,
+        'member-ordering': [
+            true,
+            {
+                'order': [
+                    'static-field',
+                    'static-method',
+                    'instance-field',
+                    'constructor',
+                ],
+            },
+        ],
     },
     jsRules: {
         'max-line-length': [true, MAX_LINE_LENGTH],

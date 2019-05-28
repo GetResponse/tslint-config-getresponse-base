@@ -1,3 +1,8 @@
+1.2.1 / 2019-05-28
+==================
+- Fixed `member-ordering` rule
+
+
 1.2.0 / 2019-05-28
 ==================
 - Updated `member-ordering` rule

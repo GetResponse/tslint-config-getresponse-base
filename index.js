@@ -21,7 +21,7 @@ module.exports = {
         'ordered-imports': false,
         'object-literal-sort-keys': false,
         'interface-name': false,
-        'member-access': [true, 'no-public'],
+        'member-access': true,
         'ban-ts-ignore': true,
         'no-inferrable-types': [true, 'ignore-params', 'ignore-properties'],
         'prefer-object-spread': true,

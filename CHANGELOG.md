@@ -1,3 +1,8 @@
+1.3.0 / 2019-05-28
+==================
+- New rule: `no-shadowed-variable`
+
+
 1.2.1 / 2019-05-28
 ==================
 - Fixed `member-ordering` rule

@@ -24,6 +24,7 @@ module.exports = {
         'member-access': true,
         'ban-ts-ignore': true,
         'no-inferrable-types': [true, 'ignore-params', 'ignore-properties'],
+        'no-shadowed-variable': true,
         'prefer-object-spread': true,
         'arrow-return-shorthand': true,
         'member-ordering': [

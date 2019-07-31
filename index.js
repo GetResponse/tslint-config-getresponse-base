@@ -39,6 +39,7 @@ module.exports = {
                 ],
             },
         ],
+        'comment-format': false,
     },
     jsRules: {
         'max-line-length': [true, MAX_LINE_LENGTH],

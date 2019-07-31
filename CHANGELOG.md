@@ -1,3 +1,7 @@
+1.3.1 / 2019-07-31
+==================
+- Updated `comment-format` rule
+
 1.3.0 / 2019-05-28
 ==================
 - New rule: `no-shadowed-variable`

@@ -35,7 +35,7 @@ module.exports = {
                     'static-method',
                     'instance-field',
                     'constructor',
-                    'instance-method'
+                    'instance-method',
                 ],
             },
         ],
